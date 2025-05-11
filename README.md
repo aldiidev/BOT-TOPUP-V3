@@ -1,7 +1,8 @@
 # BOT-TOPUP-V3
 A useful Whatsapp bot to help manage group chats
 
-### BOT FEATURES :
+**BOT FEATURES**
+```
 ✅ Access to thousands of products\
 ✅ Topup Games, Game Vouchers, Credit, Data Packages, PLN Tokens, TV Vouchers and many other prepaid services\
 ✅ Initial Capital Can be Adjusted Ability\
@@ -10,6 +11,7 @@ A useful Whatsapp bot to help manage group chats
 ✅ No need to have a server / website\
 ✅ Script made by ALDIIDEV\
 ✅ Lifetime Owner Support!
+```
 
 **TOPUP MAIN FEATURE**
 ```
