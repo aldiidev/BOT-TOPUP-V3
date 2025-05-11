@@ -83,6 +83,9 @@ Price: ~~*Rp1.200.000*~~ **Rp500.000**
 Status: **NO ENCRYPT**
 Contact: **whatsapp - 62813 6809 4422**
 
+**Group Demo? JOIN https://chat.whatsapp.com/Ll21cmSUGMWKCwDXG34Iz9**\
+**Group Store? JOIN https://chat.whatsapp.com/FkhzA0B8062HcWXki1A0jG**
+
 **NOTE**
 - ***Warranty & Support only applies if the bot is run on the AERO GSI panel***
 - ***Will be given a tutorial module until it can be used***
