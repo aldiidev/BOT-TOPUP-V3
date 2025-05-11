@@ -2,13 +2,13 @@
 A useful Whatsapp bot to help manage group chats
 
 ### BOT FEATURES :
-✅ Access to thousands of products
-✅ Topup Games, Game Vouchers, Credit, Data Packages, PLN Tokens, TV Vouchers and many other prepaid services
-✅ Initial Capital Can be Adjusted Ability
-✅ Profits can be adjusted at will
-✅ Easy to Understand Usage
-✅ No need to have a server / website
-✅ Script made by ALDIIDEV
+✅ Access to thousands of products\
+✅ Topup Games, Game Vouchers, Credit, Data Packages, PLN Tokens, TV Vouchers and many other prepaid services\
+✅ Initial Capital Can be Adjusted Ability\
+✅ Profits can be adjusted at will\
+✅ Easy to Understand Usage\
+✅ No need to have a server / website\
+✅ Script made by ALDIIDEV\
 ✅ Lifetime Owner Support!
 
 **TOPUP MAIN FEATURE**
@@ -79,15 +79,15 @@ A useful Whatsapp bot to help manage group chats
 ✅ BAGI - Divide Multiple Numbers
 ```
 
-Price: ~~*Rp1.200.000*~~ **Rp500.000**
-Status: **NO ENCRYPT**
+Price: ~~*Rp1.200.000*~~ **Rp500.000** \
+Status: **NO ENCRYPT** \
 Contact: **whatsapp - 62813 6809 4422**
 
-**Group Demo? JOIN https://chat.whatsapp.com/Ll21cmSUGMWKCwDXG34Iz9**\
+**Group Demo? JOIN https://chat.whatsapp.com/Ll21cmSUGMWKCwDXG34Iz9** \
 **Group Store? JOIN https://chat.whatsapp.com/FkhzA0B8062HcWXki1A0jG**
 
-**NOTE**
-- ***Warranty & Support only applies if the bot is run on the AERO GSI panel***
-- ***Will be given a tutorial module until it can be used***
-- ***Free Panel 1 Month + Warranty***
+**NOTE** \
+- ***Warranty & Support only applies if the bot is run on the AERO GSI panel*** \
+- ***Will be given a tutorial module until it can be used*** \
+- ***Free Panel 1 Month + Warranty*** \
 - ***Any Questions / Suggestions / Complaints? Contact AERO GSI Admin***
