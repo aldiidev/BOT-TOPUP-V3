@@ -85,6 +85,8 @@ A useful Whatsapp bot to help manage group chats
 Price: ~~*Rp1.200.000*~~ **Rp500.000** \
 Status: **NO ENCRYPT** \
 
+**Check out the other versions on my profile**
+
 **Interested in this code? contact owner on whatsapp!** \
 Contact: **whatsapp - 62813 6809 4422**
 
