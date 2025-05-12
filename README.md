@@ -3,7 +3,7 @@ A useful Whatsapp bot to help manage group chats
 
 **BOT FEATURES**
 ```
-✅ Access to thousands of products
+✅ Access to various products
 ✅ Topup Games, Game Vouchers, Credit, Data Packages, PLN Tokens, TV Vouchers and many other prepaid services
 ✅ Initial Capital Can be Adjusted Ability
 ✅ Profits can be adjusted at will
@@ -19,19 +19,20 @@ A useful Whatsapp bot to help manage group chats
 ✅ Nickname & Region Game Check Feature
 ✅ Manual Balance Deposit
 ✅ Automatic Balance Deposit
-✅ Member Rank/Level System
 ✅ Manual Order To All Products
 ✅ Automatic Order To All Products
+✅ Payment Gateway Integration
 ✅ Order Notification to Owner
 ✅ Manual Product Update
 ✅ Automatic Product Update
 ✅ Transaction Recorded in Local Database
 ✅ Transaction Recorded in Online Database
+✅ Cool Transaction Dashboard in Google Sheet
 ✅ User Data Stored in Offline Database
 ✅ User Data Stored in Online Database
 ✅ Custom List Data Stored in Offline Database
 ✅ Custom List Data Saved in Online Database
-✅ Free Request Custom Order Products - Max 3
+✅ Free Request Custom Order Products - Max 5
 ```
 
 **GROUP FEATURES**
@@ -83,12 +84,12 @@ A useful Whatsapp bot to help manage group chats
 
 Price: ~~*Rp1.200.000*~~ **Rp500.000** \
 Status: **NO ENCRYPT** \
+
+**Interested in this code? contact owner on whatsapp!** \
 Contact: **whatsapp - 62813 6809 4422**
 
-**Interested in this code? contact owner on whatsapp 62813 6809 4422**
-
-**Group Demo? JOIN https://chat.whatsapp.com/Ll21cmSUGMWKCwDXG34Iz9** \
-**Group Store? JOIN https://chat.whatsapp.com/FkhzA0B8062HcWXki1A0jG**
+**Group Demo BOT? JOIN https://chat.whatsapp.com/Ll21cmSUGMWKCwDXG34Iz9** \
+**Group Store AERO GSI? JOIN https://chat.whatsapp.com/FkhzA0B8062HcWXki1A0jG**
 
 **NOTE**
 - ***Warranty & Support only applies if the bot is run on the AERO GSI panel***
