@@ -85,6 +85,7 @@ A useful Whatsapp bot to help manage group chats
 Price: ~~*Rp1.200.000*~~ **Rp500.000** \
 Status: **NO ENCRYPT** \
 Rent : **Start From Rp70.000**
+DP : **Start From 50% With S&K**
 
 **Check out the other versions on my profile**
 
